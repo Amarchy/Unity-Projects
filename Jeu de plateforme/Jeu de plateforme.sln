@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu de plateforme.Plugins", "Jeu de plateforme.Plugins.csproj", "{A54C617E-5DFE-2208-BA1C-820E697EC015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu de plateforme", "Jeu de plateforme.csproj", "{8B249B01-1D43-122C-6006-7EF27DFE7327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu de plateforme.Editor", "Jeu de plateforme.Editor.csproj", "{E778BBE4-1FE4-633F-DC25-729B427DFADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54C617E-5DFE-2208-BA1C-820E697EC015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54C617E-5DFE-2208-BA1C-820E697EC015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54C617E-5DFE-2208-BA1C-820E697EC015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54C617E-5DFE-2208-BA1C-820E697EC015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B249B01-1D43-122C-6006-7EF27DFE7327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B249B01-1D43-122C-6006-7EF27DFE7327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B249B01-1D43-122C-6006-7EF27DFE7327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B249B01-1D43-122C-6006-7EF27DFE7327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E778BBE4-1FE4-633F-DC25-729B427DFADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E778BBE4-1FE4-633F-DC25-729B427DFADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E778BBE4-1FE4-633F-DC25-729B427DFADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E778BBE4-1FE4-633F-DC25-729B427DFADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
